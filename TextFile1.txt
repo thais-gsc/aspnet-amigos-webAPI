@@ -1,7 +1,7 @@
-Descrição de acesso ao método CREATE
+DescriÃ§Ã£o de acesso ao mÃ©todo CREATE
 
 Endpoint:
-/amigo
+/amigos
 
 
 Parametros:
